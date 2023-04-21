@@ -2,7 +2,7 @@
 # Calculateur Cote R
 
 
-Application console Node.js qui calcule votre Cote R en fonction de votre note, de la moyenne de la classe et de l'écart de la classe. L'application vous demandera d'entrer ces valeurs dans la console, puis elle utilisera la formule suivante pour calculer votre Cote R 
+Application console Node.js qui calcule votre Cote R en fonction de votre note, de la moyenne de la classe et de l'écart de la classe. L'application vous demandera d'entrer ces valeurs dans la console, puis elle utilisera la formule suivante pour calculer votre Cote R. 
 
 
 Installation
